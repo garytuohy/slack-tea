@@ -1,6 +1,6 @@
 <?php
 
-	$auth_token = 'AUTH TOKEN';
+	$auth_token = 'PVoHCsoqYlDBswOZtxgD7Ka1';
 
 	$trigger_word = '!tea';
 	$responses = array(
